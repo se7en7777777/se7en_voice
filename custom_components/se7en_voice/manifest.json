@@ -2,7 +2,7 @@
   "domain": "se7en_voice",
   "name": "se7en_voice",
   "version": "1.0.0",
-  "documentation": "https://github.com/tuya/tuya-home-assistant",
+  "documentation": "https://github.com/se7en7777777/se7en_voice",
   "requirements": [
     "tuya-iot-py-sdk==0.4.0"
   ],
