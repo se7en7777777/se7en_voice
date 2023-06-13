@@ -1,0 +1,9 @@
+send_voice:
+  description: se7en_voice.send_voice
+  fields:
+    mobile:
+      description: 拨打的电话号码
+      example: '13888888888'
+    text:
+      description: 语音文本
+      example: '您的家中检测到有人入侵，请速查看。'

@@ -1,0 +1,14 @@
+{
+  "domain": "se7en_voice",
+  "name": "se7en_voice",
+  "version": "1.0.0",
+  "documentation": "https://github.com/tuya/tuya-home-assistant",
+  "requirements": [
+    "tuya-iot-py-sdk==0.4.0"
+  ],
+  "codeowners": [
+    "@Tuya"
+  ],
+  "config_flow": true,
+  "iot_class": "cloud_push"
+}
